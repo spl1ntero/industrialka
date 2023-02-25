@@ -1,0 +1,3 @@
+/home/n1x/Рабочий стол/praktika2nomer2/cmake-build-debug/CMakeFiles/praktika2nomer2.dir
+/home/n1x/Рабочий стол/praktika2nomer2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/n1x/Рабочий стол/praktika2nomer2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
